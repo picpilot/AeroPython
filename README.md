@@ -31,3 +31,5 @@ The materials are distributed publicly and openly under a Creative Commons Attri
 ####Vortex-panel method for lifting bodies
 
 * [vortexSourcePanelMethod](http://nbviewer.ipython.org/urls/github.com/barbagroup/AeroPython/blob/master/lessons/11_Lesson11_vortexSourcePanelMethod.ipynb)
+
+Here is some additional text input by Picpilot on 6th Februarfy 2015
